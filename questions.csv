@@ -1,0 +1,6 @@
+question,option1,option2,option3,option4,answer,type
+請問1+1=?,1,2,3,4,2,choice
+請問2+2=?,2,3,4,5,4,choice
+請問3+3=?,5,6,7,8,6,choice
+請輸入5+5=?,,,,,10,fill
+請輸入10+10=?,,,,,20,fill
